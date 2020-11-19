@@ -1,1 +1,1 @@
-# Proyecto-POO
+# Covid-19 Assistant
