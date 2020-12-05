@@ -7,8 +7,6 @@
 /*
  * La clase usuario maneja los nombres de los pacientes que acuden al
  * hospital, y maneja un componente de la clase cita.
- *
- *
  */
 
 #ifndef USUARIO_H_
