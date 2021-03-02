@@ -1,5 +1,5 @@
 # Proyecto: Asistente de Hospitales
-Este proyecto está hecho para ayudar con los procesos de logística de un hospital, de modo que se pueda llevar un registro de pacientes con el mes, fecha y hora de su cita, así como utilizar comandos útiles como mostrar los registros existentes, buscar pacientes, y desplegar la información del hospital.
+Este proyecto está hecho para optimizar los procesos de logística de un hospital, de modo que se pueda llevar un registro de pacientes con el mes, fecha y hora de su cita, así como utilizar comandos útiles como mostrar los registros existentes, buscar pacientes, y desplegar la información del hospital.
 
 # Contexto
 El hospital que use el programa puede ser público o privado, y se puede llevar un registro de los pacientes que acuden a sacar citas en el hospital, de esta manera la información se encuntra encriptada pero disponible para todo el personal del hospital.
