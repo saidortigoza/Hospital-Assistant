@@ -1,4 +1,4 @@
-# Proyecto: Asistente de Hospitales
+# Gestión logística hospitalaria
 Este proyecto está hecho para optimizar los procesos de logística de un hospital, de modo que se pueda llevar un registro de pacientes con el mes, fecha y hora de su cita, así como utilizar comandos útiles como mostrar los registros existentes, buscar pacientes, y desplegar la información del hospital.
 
 # Contexto
